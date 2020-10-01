@@ -1,0 +1,21 @@
+Python
+======
+1. [requests](https://github.com/requests/requests) - Python HTTP Requests for Humans
+2. [matplotlib](https://github.com/matplotlib/matplotlib) - Matplotlib is a Python 2D plotting library which produces publication-quality figures in a variety of hardcopy formats and interactive environments across platforms. Matplotlib can be used in Python scripts, the Python and IPython shell (à la MATLAB or Mathematica), web application servers, and various graphical user interface toolkits.
+3. [pandas](https://github.com/pandas-dev/pandas) - Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures similar to R data.frame objects, statistical functions, and much more.
+4. [NumPy](https://github.com/numpy/numpy) - NumPy is the fundamental package needed for scientific computing with Python.
+5. [SciPy](https://github.com/scipy/scipy) - SciPy is open-source software for mathematics, science, and engineering.
+
+Java
+======
+
+1. [Dozer](https://github.com/DozerMapper/dozer) - Mapper that copies data from one object to another using annotations and API or XML configuration.
+2. [Apache Maven](https://maven.apache.org/) - Declarative build and dependency management that favors convention over configuration. It might be preferable to Apache Ant, which uses a rather procedural approach and can be difficult to maintain.
+3. [Gradle](https://gradle.org/) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
+4. [Singularity](http://getsingularity.com/) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
+5. [picocli](http://picocli.info/) - ANSI colors and styles in usage help. Can be included as source to avoid dependency. Annotation-based, POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
+
+C++
+======
+1. [Caffe](https://github.com/BVLC/caffe) Convolutional Architecture for Fast Feature Embedding or Caffe is a deep learning framework written in C++. The features of this library include expressive architecture, extensible code, speed and large community which fosters active development in research and industry deployments.
+2. [Tensorflow] (https://www.tensorflow.org/lite/microcontrollers/library)TensorFlow is a popular open-source software library for machine learning. This library has a comprehensive, flexible ecosystem of tools, libraries, and community resources that lets researchers and developers build and deploy ML-powered applications easily.
