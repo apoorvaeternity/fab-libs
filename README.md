@@ -14,3 +14,7 @@ Java
 3. [Gradle](https://gradle.org/) - Incremental builds programmed via Groovy instead of declaring XML. Works well with Maven's dependency management.
 4. [Singularity](http://getsingularity.com/) - Mesos framework that makes deployment and operations easy. It supports web services, background workers, scheduled jobs, and one-off tasks.
 5. [picocli](http://picocli.info/) - ANSI colors and styles in usage help. Can be included as source to avoid dependency. Annotation-based, POSIX/GNU/any syntax, subcommands, strong typing for both options and positional args.
+
+C++
+======
+1. [Caffe](https://github.com/BVLC/caffe) Convolutional Architecture for Fast Feature Embedding or Caffe is a deep learning framework written in C++. The features of this library include expressive architecture, extensible code, speed and large community which fosters active development in research and industry deployments.
